@@ -1,0 +1,1424 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-06T12:48:40.955-05:00
+  initializedAtString: 2020-03-06T12:19:40.718-05:00
+  entries:
+  - path: Assets\Background.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background.meta
+    projectPath: Assets\Background.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Background\Background.prefab
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background\Background.prefab
+    projectPath: Assets\Background\Background.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Background\Background.prefab.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background\Background.prefab.meta
+    projectPath: Assets\Background\Background.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Background\Tile_5.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background\Tile_5.asset
+    projectPath: Assets\Background\Tile_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Background\Tile_5.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background\Tile_5.asset.meta
+    projectPath: Assets\Background\Tile_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Background\Tile_5.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background\Tile_5.png
+    projectPath: Assets\Background\Tile_5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Background\Tile_5.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Background\Tile_5.png.meta
+    projectPath: Assets\Background\Tile_5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations.meta
+    projectPath: Assets\Decorations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\decoration.prefab
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\decoration.prefab
+    projectPath: Assets\Decorations\decoration.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\decoration.prefab.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\decoration.prefab.meta
+    projectPath: Assets\Decorations\decoration.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\New Palette.prefab
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\New
+      Palette.prefab
+    projectPath: Assets\Decorations\New Palette.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\New Palette.prefab.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\New
+      Palette.prefab.meta
+    projectPath: Assets\Decorations\New Palette.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_1.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_1.asset
+    projectPath: Assets\Decorations\Object_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_1.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_1.asset.meta
+    projectPath: Assets\Decorations\Object_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_1.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_1.png
+    projectPath: Assets\Decorations\Object_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_1.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_1.png.meta
+    projectPath: Assets\Decorations\Object_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_10.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_10.asset
+    projectPath: Assets\Decorations\Object_10.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_10.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_10.asset.meta
+    projectPath: Assets\Decorations\Object_10.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_10.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_10.png
+    projectPath: Assets\Decorations\Object_10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_10.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_10.png.meta
+    projectPath: Assets\Decorations\Object_10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_11.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_11.asset
+    projectPath: Assets\Decorations\Object_11.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_11.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_11.asset.meta
+    projectPath: Assets\Decorations\Object_11.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_11.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_11.png
+    projectPath: Assets\Decorations\Object_11.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_11.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_11.png.meta
+    projectPath: Assets\Decorations\Object_11.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_12.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_12.asset
+    projectPath: Assets\Decorations\Object_12.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_12.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_12.asset.meta
+    projectPath: Assets\Decorations\Object_12.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_12.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_12.png
+    projectPath: Assets\Decorations\Object_12.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_12.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_12.png.meta
+    projectPath: Assets\Decorations\Object_12.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_13.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_13.asset
+    projectPath: Assets\Decorations\Object_13.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_13.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_13.asset.meta
+    projectPath: Assets\Decorations\Object_13.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_13.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_13.png
+    projectPath: Assets\Decorations\Object_13.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_13.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_13.png.meta
+    projectPath: Assets\Decorations\Object_13.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_14.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_14.asset
+    projectPath: Assets\Decorations\Object_14.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_14.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_14.asset.meta
+    projectPath: Assets\Decorations\Object_14.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_14.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_14.png
+    projectPath: Assets\Decorations\Object_14.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_14.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_14.png.meta
+    projectPath: Assets\Decorations\Object_14.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_15.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_15.asset
+    projectPath: Assets\Decorations\Object_15.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_15.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_15.asset.meta
+    projectPath: Assets\Decorations\Object_15.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_15.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_15.png
+    projectPath: Assets\Decorations\Object_15.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_15.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_15.png.meta
+    projectPath: Assets\Decorations\Object_15.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_16.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_16.asset
+    projectPath: Assets\Decorations\Object_16.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_16.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_16.asset.meta
+    projectPath: Assets\Decorations\Object_16.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_16.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_16.png
+    projectPath: Assets\Decorations\Object_16.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_16.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_16.png.meta
+    projectPath: Assets\Decorations\Object_16.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_17.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_17.asset
+    projectPath: Assets\Decorations\Object_17.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_17.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_17.asset.meta
+    projectPath: Assets\Decorations\Object_17.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_17.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_17.png
+    projectPath: Assets\Decorations\Object_17.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_17.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_17.png.meta
+    projectPath: Assets\Decorations\Object_17.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_18.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_18.asset
+    projectPath: Assets\Decorations\Object_18.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_18.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_18.asset.meta
+    projectPath: Assets\Decorations\Object_18.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_18.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_18.png
+    projectPath: Assets\Decorations\Object_18.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_18.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_18.png.meta
+    projectPath: Assets\Decorations\Object_18.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_19.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_19.asset
+    projectPath: Assets\Decorations\Object_19.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_19.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_19.asset.meta
+    projectPath: Assets\Decorations\Object_19.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_19.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_19.png
+    projectPath: Assets\Decorations\Object_19.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_19.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_19.png.meta
+    projectPath: Assets\Decorations\Object_19.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_2.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_2.asset
+    projectPath: Assets\Decorations\Object_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_2.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_2.asset.meta
+    projectPath: Assets\Decorations\Object_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_2.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_2.png
+    projectPath: Assets\Decorations\Object_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_2.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_2.png.meta
+    projectPath: Assets\Decorations\Object_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_20.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_20.asset
+    projectPath: Assets\Decorations\Object_20.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_20.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_20.asset.meta
+    projectPath: Assets\Decorations\Object_20.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_20.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_20.png
+    projectPath: Assets\Decorations\Object_20.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_20.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_20.png.meta
+    projectPath: Assets\Decorations\Object_20.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_3.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_3.asset
+    projectPath: Assets\Decorations\Object_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_3.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_3.asset.meta
+    projectPath: Assets\Decorations\Object_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_3.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_3.png
+    projectPath: Assets\Decorations\Object_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_3.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_3.png.meta
+    projectPath: Assets\Decorations\Object_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_4.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_4.asset
+    projectPath: Assets\Decorations\Object_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_4.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_4.asset.meta
+    projectPath: Assets\Decorations\Object_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_4.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_4.png
+    projectPath: Assets\Decorations\Object_4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_4.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_4.png.meta
+    projectPath: Assets\Decorations\Object_4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_5.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_5.asset
+    projectPath: Assets\Decorations\Object_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_5.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_5.asset.meta
+    projectPath: Assets\Decorations\Object_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_5.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_5.png
+    projectPath: Assets\Decorations\Object_5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_5.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_5.png.meta
+    projectPath: Assets\Decorations\Object_5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_6.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_6.asset
+    projectPath: Assets\Decorations\Object_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_6.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_6.asset.meta
+    projectPath: Assets\Decorations\Object_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_6.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_6.png
+    projectPath: Assets\Decorations\Object_6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_6.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_6.png.meta
+    projectPath: Assets\Decorations\Object_6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_7.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_7.asset
+    projectPath: Assets\Decorations\Object_7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_7.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_7.asset.meta
+    projectPath: Assets\Decorations\Object_7.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_7.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_7.png
+    projectPath: Assets\Decorations\Object_7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_7.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_7.png.meta
+    projectPath: Assets\Decorations\Object_7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_8.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_8.asset
+    projectPath: Assets\Decorations\Object_8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_8.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_8.asset.meta
+    projectPath: Assets\Decorations\Object_8.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_8.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_8.png
+    projectPath: Assets\Decorations\Object_8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_8.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_8.png.meta
+    projectPath: Assets\Decorations\Object_8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_9.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_9.asset
+    projectPath: Assets\Decorations\Object_9.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_9.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_9.asset.meta
+    projectPath: Assets\Decorations\Object_9.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_9.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_9.png
+    projectPath: Assets\Decorations\Object_9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Object_9.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Object_9.png.meta
+    projectPath: Assets\Decorations\Object_9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_1.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_1.asset
+    projectPath: Assets\Decorations\Tile_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_1.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_1.asset.meta
+    projectPath: Assets\Decorations\Tile_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_1.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_1.png
+    projectPath: Assets\Decorations\Tile_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_1.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_1.png.meta
+    projectPath: Assets\Decorations\Tile_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_10.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_10.asset
+    projectPath: Assets\Decorations\Tile_10.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_10.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_10.asset.meta
+    projectPath: Assets\Decorations\Tile_10.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_10.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_10.png
+    projectPath: Assets\Decorations\Tile_10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_10.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_10.png.meta
+    projectPath: Assets\Decorations\Tile_10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_11.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_11.asset
+    projectPath: Assets\Decorations\Tile_11.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_11.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_11.asset.meta
+    projectPath: Assets\Decorations\Tile_11.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_11.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_11.png
+    projectPath: Assets\Decorations\Tile_11.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_11.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_11.png.meta
+    projectPath: Assets\Decorations\Tile_11.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_12.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_12.asset
+    projectPath: Assets\Decorations\Tile_12.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_12.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_12.asset.meta
+    projectPath: Assets\Decorations\Tile_12.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_12.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_12.png
+    projectPath: Assets\Decorations\Tile_12.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_12.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_12.png.meta
+    projectPath: Assets\Decorations\Tile_12.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_13.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_13.asset
+    projectPath: Assets\Decorations\Tile_13.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_13.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_13.asset.meta
+    projectPath: Assets\Decorations\Tile_13.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_13.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_13.png
+    projectPath: Assets\Decorations\Tile_13.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_13.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_13.png.meta
+    projectPath: Assets\Decorations\Tile_13.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_14.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_14.asset
+    projectPath: Assets\Decorations\Tile_14.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_14.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_14.asset.meta
+    projectPath: Assets\Decorations\Tile_14.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_14.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_14.png
+    projectPath: Assets\Decorations\Tile_14.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_14.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_14.png.meta
+    projectPath: Assets\Decorations\Tile_14.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_15.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_15.asset
+    projectPath: Assets\Decorations\Tile_15.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_15.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_15.asset.meta
+    projectPath: Assets\Decorations\Tile_15.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_15.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_15.png
+    projectPath: Assets\Decorations\Tile_15.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_15.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_15.png.meta
+    projectPath: Assets\Decorations\Tile_15.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_16.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_16.asset
+    projectPath: Assets\Decorations\Tile_16.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_16.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_16.asset.meta
+    projectPath: Assets\Decorations\Tile_16.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_16.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_16.png
+    projectPath: Assets\Decorations\Tile_16.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_16.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_16.png.meta
+    projectPath: Assets\Decorations\Tile_16.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_17.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_17.png
+    projectPath: Assets\Decorations\Tile_17.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_17.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_17.png.meta
+    projectPath: Assets\Decorations\Tile_17.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_18.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_18.asset
+    projectPath: Assets\Decorations\Tile_18.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_18.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_18.asset.meta
+    projectPath: Assets\Decorations\Tile_18.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_18.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_18.png
+    projectPath: Assets\Decorations\Tile_18.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_18.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_18.png.meta
+    projectPath: Assets\Decorations\Tile_18.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_2.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_2.asset
+    projectPath: Assets\Decorations\Tile_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_2.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_2.asset.meta
+    projectPath: Assets\Decorations\Tile_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_2.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_2.png
+    projectPath: Assets\Decorations\Tile_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_2.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_2.png.meta
+    projectPath: Assets\Decorations\Tile_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_3.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_3.asset
+    projectPath: Assets\Decorations\Tile_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_3.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_3.asset.meta
+    projectPath: Assets\Decorations\Tile_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_3.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_3.png
+    projectPath: Assets\Decorations\Tile_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_3.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_3.png.meta
+    projectPath: Assets\Decorations\Tile_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_4.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_4.asset
+    projectPath: Assets\Decorations\Tile_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_4.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_4.asset.meta
+    projectPath: Assets\Decorations\Tile_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_4.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_4.png
+    projectPath: Assets\Decorations\Tile_4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_4.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_4.png.meta
+    projectPath: Assets\Decorations\Tile_4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_6.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_6.asset
+    projectPath: Assets\Decorations\Tile_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_6.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_6.asset.meta
+    projectPath: Assets\Decorations\Tile_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_6.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_6.png
+    projectPath: Assets\Decorations\Tile_6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_6.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_6.png.meta
+    projectPath: Assets\Decorations\Tile_6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_7.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_7.asset
+    projectPath: Assets\Decorations\Tile_7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_7.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_7.asset.meta
+    projectPath: Assets\Decorations\Tile_7.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_7.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_7.png
+    projectPath: Assets\Decorations\Tile_7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_7.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_7.png.meta
+    projectPath: Assets\Decorations\Tile_7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_8.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_8.asset
+    projectPath: Assets\Decorations\Tile_8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_8.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_8.asset.meta
+    projectPath: Assets\Decorations\Tile_8.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_8.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_8.png
+    projectPath: Assets\Decorations\Tile_8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_8.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_8.png.meta
+    projectPath: Assets\Decorations\Tile_8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_9.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_9.asset
+    projectPath: Assets\Decorations\Tile_9.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_9.asset.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_9.asset.meta
+    projectPath: Assets\Decorations\Tile_9.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_9.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_9.png
+    projectPath: Assets\Decorations\Tile_9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\Tile_9.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\Tile_9.png.meta
+    projectPath: Assets\Decorations\Tile_9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\walls.prefab
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\walls.prefab
+    projectPath: Assets\Decorations\walls.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Decorations\walls.prefab.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Decorations\walls.prefab.meta
+    projectPath: Assets\Decorations\walls.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\XRSettings.asset
+    fullPath: E:\Unity Projects\GameProject_TeamBethesda-master\ProjectSettings\XRSettings.asset
+    projectPath: ProjectSettings\XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
