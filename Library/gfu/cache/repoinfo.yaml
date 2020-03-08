@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-06T12:50:16.694-05:00
-  initializedAtString: 2020-03-06T12:19:40.506-05:00
+  lastUpdatedAtString: 2020-03-08T10:11:16.496-04:00
+  initializedAtString: 2020-03-06T15:20:27.335-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/EMILA011/GameProject_TeamBethesda.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: tilemap
-    tracking: 
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: tilemap
+    name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/EMILA011/GameProject_TeamBethesda.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/EMILA011/GameProject_TeamBethesda.git
