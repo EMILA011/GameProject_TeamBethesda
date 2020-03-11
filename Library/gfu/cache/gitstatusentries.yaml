@@ -13,114 +13,132 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-10T22:07:06.397-04:00
-  initializedAtString: 2020-03-10T22:05:36.932-04:00
+  lastUpdatedAtString: 2020-03-11T11:29:09.687-04:00
+  initializedAtString: 2020-03-11T11:24:09.216-04:00
   entries:
-  - path: Assets\camerascript.cs
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\camerascript.cs
-    projectPath: Assets\camerascript.cs
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\camerascript.cs.meta
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\camerascript.cs.meta
-    projectPath: Assets\camerascript.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 3
+    workTreeStatus: 3
   - path: Library\assetDatabase3
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\assetDatabase3
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: Library\CrashedAssetImports.txt
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\EditorInstance.json
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\expandedItems
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82
-    projectPath: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82
+  - path: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+    projectPath: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82.info
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82.info
-    projectPath: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\7aa97f-mainStage.json
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Library\StateCache\SceneView\7aa97f-mainStage.json
+    projectPath: Library\StateCache\SceneView\7aa97f-mainStage.json
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\ddde82-mainStage.json
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\StateCache\Hierarchy\ddde82-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\ddde82-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Temp\UnityLockfile
+    fullPath: C:\Users\btorrance\GameProject_TeamBethesda\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d2955b863d80de44a9c0bc568feac26d
-    fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Temp\UnityTempFile-d2955b863d80de44a9c0bc568feac26d
-    projectPath: Temp\UnityTempFile-d2955b863d80de44a9c0bc568feac26d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
