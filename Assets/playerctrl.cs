@@ -7,7 +7,7 @@ using UnityEngine;
 public class playerctrl : MonoBehaviour
 {
      //number of units we want to move each second
-     float movementSpeed = 6f;
+     float movementSpeed = 8f;
 
      //controls player animator 
      public Animator animator;
