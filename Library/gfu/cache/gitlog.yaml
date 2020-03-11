@@ -13,9 +13,1071 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-08T10:11:19.253-04:00
-  initializedAtString: 2020-03-06T15:21:09.674-05:00
+  lastUpdatedAtString: 2020-03-10T21:51:24.874-04:00
+  initializedAtString: 2020-03-10T21:15:19.383-04:00
   log:
+  - commitID: 0c0a546a57a7d8686956a4cf4392c06cf06b8ae2
+    mergeA: 
+    mergeB: 
+    authorName: Chad Critchelow
+    authorEmail: 30782574+ChadCritch21@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Player speed slowed down
+    description: 
+    timeString: 2020-03-09T11:11:57.000-04:00
+    commitTimeString: 2020-03-09T11:11:57.000-04:00
+    changes:
+    - path: Assets\playerctrl.cs
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\playerctrl.cs
+      projectPath: Assets\playerctrl.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ed8943311d1429463ef456c90c8a4f882c2a3b5d
+    mergeA: 
+    mergeB: 
+    authorName: Elena
+    authorEmail: emilanlopez@bellarmine.edu
+    commitEmail: emilanlopez@bellarmine.edu
+    commitName: Elena
+    summary: player updated
+    description: 
+    timeString: 2020-03-08T10:25:52.000-04:00
+    commitTimeString: 2020-03-08T10:25:52.000-04:00
+    changes:
+    - path: Assets\Animations.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PlayerGameObject.controller
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations\PlayerGameObject.controller
+      projectPath: Assets\Animations\PlayerGameObject.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PlayerGameObject.controller.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations\PlayerGameObject.controller.meta
+      projectPath: Assets\Animations\PlayerGameObject.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player_idle.anim
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations\Player_idle.anim
+      projectPath: Assets\Animations\Player_idle.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player_idle.anim.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations\Player_idle.anim.meta
+      projectPath: Assets\Animations\Player_idle.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player_run.anim
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations\Player_run.anim
+      projectPath: Assets\Animations\Player_run.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player_run.anim.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Animations\Player_run.anim.meta
+      projectPath: Assets\Animations\Player_run.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens.meta
+      projectPath: Assets\Citizens.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens\a09090104010302.png
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens\a09090104010302.png
+      projectPath: Assets\Citizens\a09090104010302.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens\a09090104010302.png.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens\a09090104010302.png.meta
+      projectPath: Assets\Citizens\a09090104010302.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens\a09090104010303.png
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens\a09090104010303.png
+      projectPath: Assets\Citizens\a09090104010303.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens\a09090104010303.png.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens\a09090104010303.png.meta
+      projectPath: Assets\Citizens\a09090104010303.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens\a09090104010304.png
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens\a09090104010304.png
+      projectPath: Assets\Citizens\a09090104010304.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Citizens\a09090104010304.png.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Citizens\a09090104010304.png.meta
+      projectPath: Assets\Citizens\a09090104010304.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Enemies.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Enemies.meta
+      projectPath: Assets\Enemies.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Player.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Player.meta
+      projectPath: Assets\Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Player\a000b020a050503.png
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Player\a000b020a050503.png
+      projectPath: Assets\Player\a000b020a050503.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Player\a000b020a050503.png.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Player\a000b020a050503.png.meta
+      projectPath: Assets\Player\a000b020a050503.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\camerascript.cs
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\camerascript.cs
+      projectPath: Assets\camerascript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\camerascript.cs.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\camerascript.cs.meta
+      projectPath: Assets\camerascript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\playerctrl.cs
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\playerctrl.cs
+      projectPath: Assets\playerctrl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\playerctrl.cs.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\playerctrl.cs.meta
+      projectPath: Assets\playerctrl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Cinemachine.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Cinemachine.dll
+      projectPath: Library\ScriptAssemblies\Cinemachine.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Cinemachine.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Cinemachine.pdb
+      projectPath: Library\ScriptAssemblies\Cinemachine.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1bd1d9f71881e3f5dc67f60cce03ea9c.bin
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ShaderCache\1\1bd1d9f71881e3f5dc67f60cce03ea9c.bin
+      projectPath: Library\ShaderCache\1\1bd1d9f71881e3f5dc67f60cce03ea9c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fddbf8ed46e92bf55bada5bebbb7cfb7.bin
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ShaderCache\f\fddbf8ed46e92bf55bada5bebbb7cfb7.bin
+      projectPath: Library\ShaderCache\f\fddbf8ed46e92bf55bada5bebbb7cfb7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\7aa97f-mainStage.json
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\StateCache\SceneView\7aa97f-mainStage.json
+      projectPath: Library\StateCache\SceneView\7aa97f-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\03\0330c7a1a4d67e9479b7dd18ebb60d4b.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\03\0330c7a1a4d67e9479b7dd18ebb60d4b.info
+      projectPath: Library\metadata\03\0330c7a1a4d67e9479b7dd18ebb60d4b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\09\09f49d6507696f6438d4fe44ed47a577
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\09\09f49d6507696f6438d4fe44ed47a577
+      projectPath: Library\metadata\09\09f49d6507696f6438d4fe44ed47a577
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\09\09f49d6507696f6438d4fe44ed47a577.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\09\09f49d6507696f6438d4fe44ed47a577.info
+      projectPath: Library\metadata\09\09f49d6507696f6438d4fe44ed47a577.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\11\11f8e6158d891b644b9bb4e3317ce603.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\11\11f8e6158d891b644b9bb4e3317ce603.info
+      projectPath: Library\metadata\11\11f8e6158d891b644b9bb4e3317ce603.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\12\12e14d8583e573b4bb2f7630de14b591.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\12\12e14d8583e573b4bb2f7630de14b591.info
+      projectPath: Library\metadata\12\12e14d8583e573b4bb2f7630de14b591.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\16\168edbadbcd051f43904ff14a1debe27.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\16\168edbadbcd051f43904ff14a1debe27.info
+      projectPath: Library\metadata\16\168edbadbcd051f43904ff14a1debe27.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\19\19a8c3c4758eb114181d496c9ee024ab.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\19\19a8c3c4758eb114181d496c9ee024ab.info
+      projectPath: Library\metadata\19\19a8c3c4758eb114181d496c9ee024ab.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\20\20c01ddbb50603641a5aefc26881cac8.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\20\20c01ddbb50603641a5aefc26881cac8.info
+      projectPath: Library\metadata\20\20c01ddbb50603641a5aefc26881cac8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\25\25e7bdad0d27e0f4a8592fe7ca1ffacd.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\25\25e7bdad0d27e0f4a8592fe7ca1ffacd.info
+      projectPath: Library\metadata\25\25e7bdad0d27e0f4a8592fe7ca1ffacd.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\26\2615a69dcdfeade44898ea84cbd17aa7.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\26\2615a69dcdfeade44898ea84cbd17aa7.info
+      projectPath: Library\metadata\26\2615a69dcdfeade44898ea84cbd17aa7.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\26\2674ca9a91933a44db47b9e709580fae.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\26\2674ca9a91933a44db47b9e709580fae.info
+      projectPath: Library\metadata\26\2674ca9a91933a44db47b9e709580fae.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\28\28263302399e498438bae27f93d7efd9.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\28\28263302399e498438bae27f93d7efd9.info
+      projectPath: Library\metadata\28\28263302399e498438bae27f93d7efd9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\2d\2d205ee84482da34d91e1b218632d283.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\2d\2d205ee84482da34d91e1b218632d283.info
+      projectPath: Library\metadata\2d\2d205ee84482da34d91e1b218632d283.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\2d\2debad9931104fc4f8f1b2a640476e50.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\2d\2debad9931104fc4f8f1b2a640476e50.info
+      projectPath: Library\metadata\2d\2debad9931104fc4f8f1b2a640476e50.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\2f\2fe6f3e47a33c1c4f9d356dbe8cf170d.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\2f\2fe6f3e47a33c1c4f9d356dbe8cf170d.info
+      projectPath: Library\metadata\2f\2fe6f3e47a33c1c4f9d356dbe8cf170d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\33\3394e605bd8c12f4c8d1d30d4e60ba6f
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\33\3394e605bd8c12f4c8d1d30d4e60ba6f
+      projectPath: Library\metadata\33\3394e605bd8c12f4c8d1d30d4e60ba6f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\33\3394e605bd8c12f4c8d1d30d4e60ba6f.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\33\3394e605bd8c12f4c8d1d30d4e60ba6f.info
+      projectPath: Library\metadata\33\3394e605bd8c12f4c8d1d30d4e60ba6f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+      projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\34\34b344f80acffc143a032b5bda236db5
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\34\34b344f80acffc143a032b5bda236db5
+      projectPath: Library\metadata\34\34b344f80acffc143a032b5bda236db5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\34\34b344f80acffc143a032b5bda236db5.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\34\34b344f80acffc143a032b5bda236db5.info
+      projectPath: Library\metadata\34\34b344f80acffc143a032b5bda236db5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\35\35b70cda0dfc63d47a314931637850e5.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\35\35b70cda0dfc63d47a314931637850e5.info
+      projectPath: Library\metadata\35\35b70cda0dfc63d47a314931637850e5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\3e\3e8ce9e959bc4a540b9329169bdaebd3.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\3e\3e8ce9e959bc4a540b9329169bdaebd3.info
+      projectPath: Library\metadata\3e\3e8ce9e959bc4a540b9329169bdaebd3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\46\4638c6d39b991d84baccc764eb85a8dc.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\46\4638c6d39b991d84baccc764eb85a8dc.info
+      projectPath: Library\metadata\46\4638c6d39b991d84baccc764eb85a8dc.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+      projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\48\4833968f82f721d42bb11b9f4b4f3156.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\48\4833968f82f721d42bb11b9f4b4f3156.info
+      projectPath: Library\metadata\48\4833968f82f721d42bb11b9f4b4f3156.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\48\485924bde28469e4c81736a1e6457e8e.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\48\485924bde28469e4c81736a1e6457e8e.info
+      projectPath: Library\metadata\48\485924bde28469e4c81736a1e6457e8e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+      projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\4f\4f9bf725cf70ef74ea98494e9cfe8a54
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\4f\4f9bf725cf70ef74ea98494e9cfe8a54
+      projectPath: Library\metadata\4f\4f9bf725cf70ef74ea98494e9cfe8a54
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\4f\4f9bf725cf70ef74ea98494e9cfe8a54.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\4f\4f9bf725cf70ef74ea98494e9cfe8a54.info
+      projectPath: Library\metadata\4f\4f9bf725cf70ef74ea98494e9cfe8a54.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\53\535f36daf132af64891bb5532ac3196a
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\53\535f36daf132af64891bb5532ac3196a
+      projectPath: Library\metadata\53\535f36daf132af64891bb5532ac3196a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\53\535f36daf132af64891bb5532ac3196a.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\53\535f36daf132af64891bb5532ac3196a.info
+      projectPath: Library\metadata\53\535f36daf132af64891bb5532ac3196a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\54\54e4217d3580bb743bceaa91f1cd6d53.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\54\54e4217d3580bb743bceaa91f1cd6d53.info
+      projectPath: Library\metadata\54\54e4217d3580bb743bceaa91f1cd6d53.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\57\577dd8a094b161049952bebf34849305.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\57\577dd8a094b161049952bebf34849305.info
+      projectPath: Library\metadata\57\577dd8a094b161049952bebf34849305.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+      projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\5b\5b695c22ffba5da41bdebcb882a20185.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5b\5b695c22ffba5da41bdebcb882a20185.info
+      projectPath: Library\metadata\5b\5b695c22ffba5da41bdebcb882a20185.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82
+      projectPath: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82.info
+      projectPath: Library\metadata\5d\5dda9fa98fd2840408e206f749dd4b82.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5e\5e42577635dbae2479b92520f61a6ec7.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5e\5e42577635dbae2479b92520f61a6ec7.info
+      projectPath: Library\metadata\5e\5e42577635dbae2479b92520f61a6ec7.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\5e\5e84e01b36bf18648b7e30a854c2fc57.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\5e\5e84e01b36bf18648b7e30a854c2fc57.info
+      projectPath: Library\metadata\5e\5e84e01b36bf18648b7e30a854c2fc57.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+      projectPath: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec.info
+      projectPath: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\63\6365a14b944566546be54b9c8d1819b9
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\63\6365a14b944566546be54b9c8d1819b9
+      projectPath: Library\metadata\63\6365a14b944566546be54b9c8d1819b9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\63\6365a14b944566546be54b9c8d1819b9.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\63\6365a14b944566546be54b9c8d1819b9.info
+      projectPath: Library\metadata\63\6365a14b944566546be54b9c8d1819b9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+      projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\6e\6e5963e643344ab4b8b33eab57863a95.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\6e\6e5963e643344ab4b8b33eab57863a95.info
+      projectPath: Library\metadata\6e\6e5963e643344ab4b8b33eab57863a95.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\72\72a0521c49963ff47aac62fe73400d2d
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\72\72a0521c49963ff47aac62fe73400d2d
+      projectPath: Library\metadata\72\72a0521c49963ff47aac62fe73400d2d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\72\72a0521c49963ff47aac62fe73400d2d.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\72\72a0521c49963ff47aac62fe73400d2d.info
+      projectPath: Library\metadata\72\72a0521c49963ff47aac62fe73400d2d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\7c\7c02f5b03b47412449dda3e891c43141.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\7c\7c02f5b03b47412449dda3e891c43141.info
+      projectPath: Library\metadata\7c\7c02f5b03b47412449dda3e891c43141.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\7d\7db2f9ec1f4758f47babe32f264cd695.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\7d\7db2f9ec1f4758f47babe32f264cd695.info
+      projectPath: Library\metadata\7d\7db2f9ec1f4758f47babe32f264cd695.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\83\83b7a19fd1e8c2344af971c1bb37254b.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\83\83b7a19fd1e8c2344af971c1bb37254b.info
+      projectPath: Library\metadata\83\83b7a19fd1e8c2344af971c1bb37254b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\8a\8a4422f9451bdb6459c3ea0b21fb6d88.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\8a\8a4422f9451bdb6459c3ea0b21fb6d88.info
+      projectPath: Library\metadata\8a\8a4422f9451bdb6459c3ea0b21fb6d88.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\94\94e6aa5db7755084da31b22a8f3782e2.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\94\94e6aa5db7755084da31b22a8f3782e2.info
+      projectPath: Library\metadata\94\94e6aa5db7755084da31b22a8f3782e2.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\97\9758622fa569fba49aed02937e8530a2.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\97\9758622fa569fba49aed02937e8530a2.info
+      projectPath: Library\metadata\97\9758622fa569fba49aed02937e8530a2.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\9e\9e33e29abd5f80b418c4ed1147798092.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\9e\9e33e29abd5f80b418c4ed1147798092.info
+      projectPath: Library\metadata\9e\9e33e29abd5f80b418c4ed1147798092.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\9f\9f93d68c5100b274b9c536dd1048f57b.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\9f\9f93d68c5100b274b9c536dd1048f57b.info
+      projectPath: Library\metadata\9f\9f93d68c5100b274b9c536dd1048f57b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a3\a3d43fa99442a954ea6929f6c73a60f3.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\a3\a3d43fa99442a954ea6929f6c73a60f3.info
+      projectPath: Library\metadata\a3\a3d43fa99442a954ea6929f6c73a60f3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a8\a80ad316739ea5241bff47d2627f6bfa.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\a8\a80ad316739ea5241bff47d2627f6bfa.info
+      projectPath: Library\metadata\a8\a80ad316739ea5241bff47d2627f6bfa.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a8\a88a5868ba4431741ba472a5501a3c14.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\a8\a88a5868ba4431741ba472a5501a3c14.info
+      projectPath: Library\metadata\a8\a88a5868ba4431741ba472a5501a3c14.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\af\af405898d731a7c448e19bf47eec014b.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\af\af405898d731a7c448e19bf47eec014b.info
+      projectPath: Library\metadata\af\af405898d731a7c448e19bf47eec014b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\b1\b1a5be01ff0367145a6fd918dbceface.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\b1\b1a5be01ff0367145a6fd918dbceface.info
+      projectPath: Library\metadata\b1\b1a5be01ff0367145a6fd918dbceface.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\b4\b441cb36ecd5b474fb50df2579d6b477
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\b4\b441cb36ecd5b474fb50df2579d6b477
+      projectPath: Library\metadata\b4\b441cb36ecd5b474fb50df2579d6b477
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\b4\b441cb36ecd5b474fb50df2579d6b477.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\b4\b441cb36ecd5b474fb50df2579d6b477.info
+      projectPath: Library\metadata\b4\b441cb36ecd5b474fb50df2579d6b477.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\b7\b7578ff399d5a334abdabb1fe9c48735.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\b7\b7578ff399d5a334abdabb1fe9c48735.info
+      projectPath: Library\metadata\b7\b7578ff399d5a334abdabb1fe9c48735.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\b9\b9c965329946e2d4495859fd8cb013a3.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\b9\b9c965329946e2d4495859fd8cb013a3.info
+      projectPath: Library\metadata\b9\b9c965329946e2d4495859fd8cb013a3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\bb\bb4664f859c2a764bad0d3e847f02a7b
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\bb\bb4664f859c2a764bad0d3e847f02a7b
+      projectPath: Library\metadata\bb\bb4664f859c2a764bad0d3e847f02a7b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\bb\bb4664f859c2a764bad0d3e847f02a7b.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\bb\bb4664f859c2a764bad0d3e847f02a7b.info
+      projectPath: Library\metadata\bb\bb4664f859c2a764bad0d3e847f02a7b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\bf\bf34f8459b97da74da5f9b3d85830773
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\bf\bf34f8459b97da74da5f9b3d85830773
+      projectPath: Library\metadata\bf\bf34f8459b97da74da5f9b3d85830773
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\bf\bf34f8459b97da74da5f9b3d85830773.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\bf\bf34f8459b97da74da5f9b3d85830773.info
+      projectPath: Library\metadata\bf\bf34f8459b97da74da5f9b3d85830773.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+      projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\c1\c160159bc9200334cbb711f5abba8f52.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\c1\c160159bc9200334cbb711f5abba8f52.info
+      projectPath: Library\metadata\c1\c160159bc9200334cbb711f5abba8f52.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\c8\c85d9d008bf8ddb41903ed86b986f1d0.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\c8\c85d9d008bf8ddb41903ed86b986f1d0.info
+      projectPath: Library\metadata\c8\c85d9d008bf8ddb41903ed86b986f1d0.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\ca\ca5bc4e3c5f275a4fb5136324df078ca.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\ca\ca5bc4e3c5f275a4fb5136324df078ca.info
+      projectPath: Library\metadata\ca\ca5bc4e3c5f275a4fb5136324df078ca.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\d3\d3dd293a955292f4b9367869c2a4e701.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\d3\d3dd293a955292f4b9367869c2a4e701.info
+      projectPath: Library\metadata\d3\d3dd293a955292f4b9367869c2a4e701.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\e0\e007767cecd1e6947a242f3ba357c136.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\e0\e007767cecd1e6947a242f3ba357c136.info
+      projectPath: Library\metadata\e0\e007767cecd1e6947a242f3ba357c136.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f3\f324a17b974d92d48930fb1178331fdc.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f3\f324a17b974d92d48930fb1178331fdc.info
+      projectPath: Library\metadata\f3\f324a17b974d92d48930fb1178331fdc.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f5\f541e3d3661e47140a75f67f6fd26067.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f5\f541e3d3661e47140a75f67f6fd26067.info
+      projectPath: Library\metadata\f5\f541e3d3661e47140a75f67f6fd26067.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f7\f75c9ddb7b01493448b83f89c9d3ee4e.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f7\f75c9ddb7b01493448b83f89c9d3ee4e.info
+      projectPath: Library\metadata\f7\f75c9ddb7b01493448b83f89c9d3ee4e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f7\f7f23bc263e21b646b97744d2abde4c5.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f7\f7f23bc263e21b646b97744d2abde4c5.info
+      projectPath: Library\metadata\f7\f7f23bc263e21b646b97744d2abde4c5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\f9\f9e795eb6c5607f4499779720c9f82c1
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f9\f9e795eb6c5607f4499779720c9f82c1
+      projectPath: Library\metadata\f9\f9e795eb6c5607f4499779720c9f82c1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\f9\f9e795eb6c5607f4499779720c9f82c1.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\f9\f9e795eb6c5607f4499779720c9f82c1.info
+      projectPath: Library\metadata\f9\f9e795eb6c5607f4499779720c9f82c1.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\fd\fdb7290ec5d4a1844ac141808652eeb9.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\fd\fdb7290ec5d4a1844ac141808652eeb9.info
+      projectPath: Library\metadata\fd\fdb7290ec5d4a1844ac141808652eeb9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\ff\ffb35ccc0540d1645bf378748f86fabc.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\ff\ffb35ccc0540d1645bf378748f86fabc.info
+      projectPath: Library\metadata\ff\ffb35ccc0540d1645bf378748f86fabc.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: eb595604c21314c2f4501d0aaabb9c69a6c9bce0
     mergeA: 
     mergeB: 
