@@ -13,9 +13,129 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-10T21:51:24.874-04:00
-  initializedAtString: 2020-03-10T21:15:19.383-04:00
+  lastUpdatedAtString: 2020-03-10T22:08:03.523-04:00
+  initializedAtString: 2020-03-10T22:08:03.523-04:00
   log:
+  - commitID: 3cbbebc64e79a25c60cf00588856d139e72fce04
+    mergeA: 
+    mergeB: 
+    authorName: Elena
+    authorEmail: emilanlopez@bellarmine.edu
+    commitEmail: emilanlopez@bellarmine.edu
+    commitName: Elena
+    summary: updated camera
+    description: 
+    timeString: 2020-03-10T22:04:04.000-04:00
+    commitTimeString: 2020-03-10T22:04:04.000-04:00
+    changes:
+    - path: Assets\Enemies.meta
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Enemies.meta
+      projectPath: Assets\Enemies.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\7aa97f-mainStage.json
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\StateCache\SceneView\7aa97f-mainStage.json
+      projectPath: Library\StateCache\SceneView\7aa97f-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\34\34b344f80acffc143a032b5bda236db5
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\34\34b344f80acffc143a032b5bda236db5
+      projectPath: Library\metadata\34\34b344f80acffc143a032b5bda236db5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\metadata\34\34b344f80acffc143a032b5bda236db5.info
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\34\34b344f80acffc143a032b5bda236db5.info
+      projectPath: Library\metadata\34\34b344f80acffc143a032b5bda236db5.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+      fullPath: C:\Users\eleni\OneDrive\Escritorio\actual game project\GameProject_TeamBethesda\Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+      projectPath: Library\metadata\60\60d4f3270d9f15d439aae28d0393cbec
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 0c0a546a57a7d8686956a4cf4392c06cf06b8ae2
     mergeA: 
     mergeB: 
