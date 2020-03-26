@@ -47,6 +47,9 @@ TagManager:
   - name: Elements
     uniqueID: 825478139
     locked: 0
-  - name: New Layer
+  - name: Entity
     uniqueID: 1560025819
+    locked: 0
+  - name: New Layer
+    uniqueID: 2783204991
     locked: 0
