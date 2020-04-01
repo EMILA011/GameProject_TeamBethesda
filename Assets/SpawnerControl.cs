@@ -13,7 +13,7 @@ public class SpawnerControl : MonoBehaviour
 	void Start()
 	{
 		
-		InvokeRepeating("SpawnFood", 1f, 10f);
+		InvokeRepeating("SpawnFood", 1f, 5f);
 	}
 
 	void SpawnFood()

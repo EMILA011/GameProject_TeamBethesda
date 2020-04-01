@@ -1,17 +1,22 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 //make the player move in the x/y plane
 
 public class playerctrl : MonoBehaviour
 {
-     public int foodValue = 1;
+    
 
-     public int maxScore = 100;
-     public int currentScore;
+     public TextMeshProUGUI foodNumber;
+     public TextMeshProUGUI citizenNumber;
 
-     public ScoreBar scoreBar;
+     public int foodValue;
+
+     public int maxCitizen;
+     
+     
 
      //number of units we want to move each second
      float movementSpeed = 7f;
@@ -25,8 +30,12 @@ public class playerctrl : MonoBehaviour
      // Use this for initialization
      void Start()
      {
-         currentScore = 0;
-         scoreBar.SetMaxScore(maxScore);
+          foodValue = 0;
+          maxCitizen = 20;
+
+          foodNumber.text = foodValue.ToString();
+          citizenNumber.text = maxCitizen.ToString();
+          
      }
 
      // Update is called once per frame
@@ -89,36 +98,33 @@ public class playerctrl : MonoBehaviour
 
                case "food":
 
-                    FoodCounter.instance.GainFoodAmount(foodValue);
+                    foodValue = 1;
+                    foodNumber.text = foodValue.ToString();
                     Destroy(collision.gameObject);
                     break;
 
                case "enemy":
-                    FoodCounter.instance.LoseFoodAmount(foodValue);
+                    foodValue = 0;
+                    foodNumber.text = foodValue.ToString();
                     break;
 
                case "citizen":
 
-                    FoodCounter.instance.LoseFoodAmount(foodValue);
-                    IncreaseScore(10);
-                    Destroy(collision.gameObject);
+                    if(foodValue == 1)
+                    {
+                         foodValue = 0;
+                         foodNumber.text = foodValue.ToString();
+                         maxCitizen--;
+                         citizenNumber.text = maxCitizen.ToString();
+                         Destroy(collision.gameObject);
+
+                    }
                     
                     break;
           }
 
      }
 
-     void IncreaseScore(int increase)
-     {
-          currentScore += increase;
-          scoreBar.SetScore(currentScore);
-     }
-
-     void DecreaseScore(int decrease)
-     {
-          currentScore -= decrease;
-          scoreBar.SetScore(currentScore);
-     }
 }
 
 
