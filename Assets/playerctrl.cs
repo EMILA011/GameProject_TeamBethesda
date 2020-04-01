@@ -6,6 +6,13 @@ using UnityEngine;
 
 public class playerctrl : MonoBehaviour
 {
+     public int foodValue = 1;
+
+     public int maxScore = 100;
+     public int currentScore;
+
+     public ScoreBar scoreBar;
+
      //number of units we want to move each second
      float movementSpeed = 7f;
 
@@ -18,7 +25,8 @@ public class playerctrl : MonoBehaviour
      // Use this for initialization
      void Start()
      {
-
+         currentScore = 0;
+         scoreBar.SetMaxScore(maxScore);
      }
 
      // Update is called once per frame
@@ -73,7 +81,47 @@ public class playerctrl : MonoBehaviour
           transform.localScale = playerScale;
      }
 
+     void OnTriggerEnter2D(Collider2D collision)
+
+     {
+          switch (collision.gameObject.tag)
+          {
+
+               case "food":
+
+                    FoodCounter.instance.GainFoodAmount(foodValue);
+                    Destroy(collision.gameObject);
+                    break;
+
+               case "enemy":
+                    FoodCounter.instance.LoseFoodAmount(foodValue);
+                    break;
+
+               case "citizen":
+
+                    FoodCounter.instance.LoseFoodAmount(foodValue);
+                    IncreaseScore(10);
+                    Destroy(collision.gameObject);
+                    
+                    break;
+          }
+
+     }
+
+     void IncreaseScore(int increase)
+     {
+          currentScore += increase;
+          scoreBar.SetScore(currentScore);
+     }
+
+     void DecreaseScore(int decrease)
+     {
+          currentScore -= decrease;
+          scoreBar.SetScore(currentScore);
+     }
 }
+
+
 
      
 
