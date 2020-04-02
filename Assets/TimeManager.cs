@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class TimeManager : MonoBehaviour
 {
      //time we want player to start off
-     public static float timeLeft = 120f;
+     public static float timeLeft = 600f;
 
      public Text text;
 

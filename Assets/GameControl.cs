@@ -30,7 +30,7 @@ public class GameControl : MonoBehaviour
           timeIsUp.gameObject.SetActive(false);
           restartButton.gameObject.SetActive(false);
           Time.timeScale = 1;
-          TimeManager.timeLeft = 120f;
+          TimeManager.timeLeft = 600f;
           SceneManager.LoadScene("SampleScene");
      }
 }
