@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-04-02T16:40:18.860-04:00
-  initializedAtString: 2020-04-02T16:40:03.553-04:00
+  lastUpdatedAtString: 2020-04-05T13:10:39.076-04:00
+  initializedAtString: 2020-04-03T16:33:50.550-04:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/EMILA011/GameProject_TeamBethesda.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/EMILA011/GameProject_TeamBethesda.git

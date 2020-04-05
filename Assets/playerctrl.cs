@@ -7,14 +7,17 @@ using TMPro;
 
 public class playerctrl : MonoBehaviour
 {
-    
+
+     public AudioSource citizen;
+     public AudioSource pickupmeat;
+     public AudioSource raccoon;
 
      public TextMeshProUGUI foodNumber;
      public TextMeshProUGUI citizenNumber;
 
      public int foodValue;
 
-     public int maxCitizen;
+     public static int maxCitizen;
      
      
 
@@ -35,7 +38,13 @@ public class playerctrl : MonoBehaviour
 
           foodNumber.text = foodValue.ToString();
           citizenNumber.text = maxCitizen.ToString();
-          
+          AudioSource[] audios = GetComponents<AudioSource>();
+
+          citizen = audios[0];
+          pickupmeat = audios[1];
+          raccoon = audios[2];
+
+
      }
 
      // Update is called once per frame
@@ -98,20 +107,24 @@ public class playerctrl : MonoBehaviour
 
                case "food":
 
+                    
                     foodValue = 1;
                     foodNumber.text = foodValue.ToString();
+                    pickupmeat.Play();
                     Destroy(collision.gameObject);
                     break;
 
                case "enemy":
                     foodValue = 0;
                     foodNumber.text = foodValue.ToString();
+                    raccoon.Play();
                     break;
 
                case "citizen":
 
                     if(foodValue == 1)
                     {
+                         citizen.Play();
                          foodValue = 0;
                          foodNumber.text = foodValue.ToString();
                          maxCitizen--;

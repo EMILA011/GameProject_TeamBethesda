@@ -8,7 +8,7 @@ public class TimeManager : MonoBehaviour
      //time we want player to start off
      public static float timeLeft = 600f;
 
-     public Text text;
+     public static Text text;
 
      // Start is called before the first frame update
      void Start()
