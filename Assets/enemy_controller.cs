@@ -12,7 +12,7 @@ public class enemy_controller : MonoBehaviour
      //controls enemy animator 
      public Animator animator;
 
-     //
+     //Initialize Rigidbody2D
      private Rigidbody2D myRigidbody;
 
      //Determines whether the enemy is moving or not
@@ -27,14 +27,19 @@ public class enemy_controller : MonoBehaviour
      //enemy is by default facing right
      public bool faceRight = true;
 
+     //Initialize Transform object for player's position.
+     private Transform target;
+
      // Use this for initialization
      void Start()
      {
         myRigidbody = GetComponent<Rigidbody2D>();
         timeBetweenMoveCounter = timeBetweenMove;
         timeToMoveCounter = timeToMove;
-        //use the Enemy_Idel animation when player is not moving.
+        //use the Enemy_Idle animation when player is not moving.
         animator.SetFloat("speed", 0);
+        //Get Player postion in order to chase player.
+        target = GameObject.Find("PlayerGameObject").GetComponent<Transform>();
     }
 
      // Update is called once per frame
@@ -54,7 +59,7 @@ public class enemy_controller : MonoBehaviour
                 animator.SetFloat("speed", 0);
             }
         }
-        else
+        if(!moving)
         {
             timeBetweenMoveCounter -= Time.deltaTime;
             myRigidbody.velocity = Vector2.zero;
@@ -85,6 +90,22 @@ public class enemy_controller : MonoBehaviour
                 { 
                     Flip();
                 }
+            }
+        }
+        else
+        {
+            transform.position = Vector2.MoveTowards(transform.position, target.position, movementSpeed * Time.deltaTime);
+            float x_Axis = target.position.x - transform.position.x;
+
+            //if enemy is moving to the right and facing left then flip the facing direction.
+            if (x_Axis > 0 && !faceRight)
+            {
+                Flip();
+            }
+            //if enemy if moving to the left and facing right then flip the facing direction.
+            else if (x_Axis < 0 && faceRight)
+            {
+                Flip();
             }
         }
      }
